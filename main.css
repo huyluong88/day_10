@@ -1,0 +1,40 @@
+img {
+    width: 100%;
+}
+
+p {
+    font-size: 50px;
+    text-align: center;
+    float:
+}
+
+li {
+    list-style-type: none;
+    text-align: left;
+    margin-left: 100px;
+}
+
+#list {
+    margin-left: 40px;
+}
+
+#list6 {
+    margin-left: 40px;
+}
+
+h1 {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    background-color: gray;
+    padding-top: 60px;
+    padding-bottom: 10px;
+}
+
+div {
+    margin-left: 100px;
+}
+
+ul {}
